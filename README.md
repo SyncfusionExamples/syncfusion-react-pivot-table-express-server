@@ -94,7 +94,6 @@ syncfusion-react-pivot-with-express-server/
 │   ├── 📁 src/
 │   │   ├── App.css                           # Component styles
 │   │   ├── App.tsx                           # Pivot Table with UrlAdaptor + CRUD configuration
-│   │   ├── dummy.tsx                         # Read-only Pivot Table sample
 │   │   ├── index.css
 │   │   ├── main.tsx                          # React entry point
 │   │   └── 📁 assets/
